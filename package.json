@@ -1,0 +1,19 @@
+{
+  "name": "rub",
+  "version": "14.0.0",
+  "description": "Bot ",
+  "main": "client.js",
+  "scripts": {
+    "test": "node_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-rgb/Rub.git"
+  },
+  "author": "why",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crypto-rgb/Rub/issues"
+  },
+  "homepage": "https://github.com/crypto-rgb/Rub#readme"
+}
